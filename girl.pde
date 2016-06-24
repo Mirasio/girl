@@ -12,7 +12,7 @@ size(604,389);
 
 
 void draw() {
-for(int i = 0; i!= 200; i++){
+for(int i = 0; i!= 500; i++){
  int x = (int)random(0,604),
  y = (int)random(0,389);
  color c = b.get(x,y);
